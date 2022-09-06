@@ -1,4 +1,4 @@
-let arreglo = [6, 1, 0, 1, 9];
+let arreglo = [6, 1, 0, 3, 9];
 /* console.log(Math.max(...arreglo)); */
 function maximo(array) {
     num = array.length;
